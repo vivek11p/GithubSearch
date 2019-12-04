@@ -1,4 +1,4 @@
-# Telstra Spring Boot Coding Exercise #
+# Spring Boot Coding Exercise #
 
 A place to do some spring boot coding exercises.
 
@@ -10,7 +10,7 @@ the spring boot application defined in the `microservice` module and runs cucumb
 `functional-tests/src/test/resources/features` to verify behaviour.
 
 The step definitions for the cucumber tests are defined in 
-`functional-tests/src/test/java/com.telstra.codechallenge.functionaltests/steps/ServiceStepDefinitions.java`.
+`functional-tests/src/test/java/com.vivek.codechallenge.functionaltests/steps/ServiceStepDefinitions.java`.
 
 
 ## Instructions ##
